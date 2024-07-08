@@ -1,6 +1,6 @@
-# Hi there, I'm Yassine Naanani 👋
+# Hi there, I'm JEAN BAPTISTE MURENZI 👋
 
-I'm a dedicated data science student at Zone01, passionate about AI, mathematical modeling, and software development. Having moved from Morocco to France to pursue my studies, I've built a diverse portfolio of projects and collaborated with doctoral candidates on complex research topics. Let's dive into my journey and projects!
+I'm a dedicated data science student at Zone01, passionate about AI, mathematical modeling, and software development. Having moved from Rwanda to France to pursue my studies, I've built a diverse portfolio of projects and collaborated with doctoral candidates on complex research topics. Let's dive into my journey and projects!
 
 ---
 
@@ -28,64 +28,19 @@ I'm a dedicated data science student at Zone01, passionate about AI, mathematica
 
 ---
 
-## 🚀 Projects
-
-### 1. Advanced Data Analysis <!--](https://github.com/jkabarenzi/advanced-data-analysis) -->
-A comprehensive data analysis project using Python and various data science libraries. This project involves data cleaning, visualization, and building predictive models.
-
-- **Tech Stack**: Python, Pandas, Matplotlib, Scikit-Learn
-- **Highlights**: Exploratory data analysis, predictive modeling, data visualization.
-
-### 2. AI Chatbot <!--](https://github.com/jkabarenzi/ai-chatbot) -->
-An intelligent chatbot capable of understanding and responding to user queries using NLP techniques.
-
-- **Tech Stack**: Python, TensorFlow, NLTK
-- **Highlights**: Natural language processing, machine learning, interactive user interface.
-
-### 3. Full-Stack Web Application <!-- ](https://github.com/jkabarenzi/full-stack-web-app) -->
-A full-stack web application developed with Django for the backend and React for the frontend.
-
-- **Tech Stack**: Django, React, PostgreSQL, Docker
-- **Highlights**: User authentication, RESTful API, responsive design.
-
-### 4. Mathematical Modeling <!--](https://github.com/jkabarenzi/mathematical-modeling) -->
-A project focusing on mathematical models to solve real-world problems, combining both theoretical and computational approaches.
-
-- **Tech Stack**: Python, Jupyter Notebook
-- **Highlights**: Differential equations, optimization, simulations.
-
----
-
-## 🌟 Competitive Coding Profiles
-
-<!-- [LeetCode](https://leetcode.com/u/YassineNaanani/) -->
-- [CodeWars](https://www.codewars.com/users/yassinenaanani)
-- [Codingame](https://www.codingame.com/profile/486fb13a5ec259f2c0d50453d80257dd9394555)
-
----
-
 ## 📈 GitHub Stats
 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jkabarenzi&layout=compact&theme=radical&hide=c,c%2B%2B) ![jkabarenzi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jkabarenzi\&rank_icon=github&theme=radical)
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=jkabarenzi&theme=radical)
-
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=jkabarenzi&theme=radical) 
+![jkabarenzi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jkabarenzi\&rank_icon=github&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jkabarenzi&layout=compact&theme=radical&hide=c,c%2B%2B) 
 
 ---
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/yassine-naanani-5332a7a0/)
-- [Email](mailto:prs.online.00@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/jean-baptiste-murenzi-bb09b52b5/)
+- [Email](mailto:mujebaru@yahoo.fr)
 
----
-
-## 🎯 Goals for 2024
-
-- Contribute to more open-source projects.
-- Improve my skills in deep learning and AI.
-- Collaborate with other developers and data scientists.
-- Work on impactful projects that solve real-world problems.
 
 ---
 
