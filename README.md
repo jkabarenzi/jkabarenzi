@@ -1,16 +1,92 @@
-## Hi there 👋
+# Hi there, I'm Yassine Naanani 👋
 
-<!--
-**jkabarenzi/jkabarenzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a dedicated data science student at Zone01, passionate about AI, mathematical modeling, and software development. Having moved from Morocco to France to pursue my studies, I've built a diverse portfolio of projects and collaborated with doctoral candidates on complex research topics. Let's dive into my journey and projects!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=python)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=tensorflow)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-000?&logo=scikit-learn)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=pytorch)
+![Keras](https://img.shields.io/badge/-Keras-000?&logo=keras)
+![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=matplotlib)
+![Seaborn](https://img.shields.io/badge/-Seaborn-000?&logo=seaborn)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=jupyter)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=php)
+![Rust](https://img.shields.io/badge/-Rust-000?&logo=rust)
+![C](https://img.shields.io/badge/-C-000?&logo=c)
+![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus)
+![Latex](https://img.shields.io/badge/-LaTeX-000?&logo=latex)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=postgresql)
+
+---
+
+## 🚀 Projects
+
+### 1. Advanced Data Analysis <!--](https://github.com/jkabarenzi/advanced-data-analysis) -->
+A comprehensive data analysis project using Python and various data science libraries. This project involves data cleaning, visualization, and building predictive models.
+
+- **Tech Stack**: Python, Pandas, Matplotlib, Scikit-Learn
+- **Highlights**: Exploratory data analysis, predictive modeling, data visualization.
+
+### 2. AI Chatbot <!--](https://github.com/jkabarenzi/ai-chatbot) -->
+An intelligent chatbot capable of understanding and responding to user queries using NLP techniques.
+
+- **Tech Stack**: Python, TensorFlow, NLTK
+- **Highlights**: Natural language processing, machine learning, interactive user interface.
+
+### 3. Full-Stack Web Application <!-- ](https://github.com/jkabarenzi/full-stack-web-app) -->
+A full-stack web application developed with Django for the backend and React for the frontend.
+
+- **Tech Stack**: Django, React, PostgreSQL, Docker
+- **Highlights**: User authentication, RESTful API, responsive design.
+
+### 4. Mathematical Modeling <!--](https://github.com/jkabarenzi/mathematical-modeling) -->
+A project focusing on mathematical models to solve real-world problems, combining both theoretical and computational approaches.
+
+- **Tech Stack**: Python, Jupyter Notebook
+- **Highlights**: Differential equations, optimization, simulations.
+
+---
+
+## 🌟 Competitive Coding Profiles
+
+<!-- [LeetCode](https://leetcode.com/u/YassineNaanani/) -->
+- [CodeWars](https://www.codewars.com/users/yassinenaanani)
+- [Codingame](https://www.codingame.com/profile/486fb13a5ec259f2c0d50453d80257dd9394555)
+
+---
+
+## 📈 GitHub Stats
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jkabarenzi&layout=compact&theme=radical&hide=c,c%2B%2B) ![jkabarenzi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jkabarenzi\&rank_icon=github&theme=radical)
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=jkabarenzi&theme=radical)
+
+
+---
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/yassine-naanani-5332a7a0/)
+- [Email](mailto:prs.online.00@gmail.com)
+
+---
+
+## 🎯 Goals for 2024
+
+- Contribute to more open-source projects.
+- Improve my skills in deep learning and AI.
+- Collaborate with other developers and data scientists.
+- Work on impactful projects that solve real-world problems.
+
+---
+
+Looking forward to connecting and collaborating on exciting projects!
